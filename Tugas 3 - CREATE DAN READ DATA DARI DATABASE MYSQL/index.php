@@ -6,12 +6,12 @@ $barang = query("SELECT * FROM daftar_barang")
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Abiyoga Dhaniswara</title>
+        <title>Muhammad Devan Adi Pranawa</title>
     </head>
     <body>
-        <h1>Daftar Barang Toko Abadi</h1>
+        <h1>Daftar Menu Rumah Makan Padang</h1>
 
-        <a href="tambah.php">Tambah Data Barang Toko Abadi</a>
+        <a href="tambah.php">Tambah Data Menu Rumah Makan Padang</a>
         <br><br>
         
         <table border="1" cellpadding="10" cellspacing="0">
