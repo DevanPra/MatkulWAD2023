@@ -27,10 +27,10 @@ if (isset($_POST["submit"])){
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Ubah Data Barang Toko Abadi</title>
+        <title>Ubah Data Barang Rumah Makan Padang</title>
     </head>
     <body>
-        <h1>Ubah Data Barang Toko Abadi</h1>
+        <h1>Ubah Data Menu Rumah Makan Padang</h1>
         <form action="" method="post">
             <input type="hidden" name="no" value="<?=$brg['no'];?>">
             <ul>
